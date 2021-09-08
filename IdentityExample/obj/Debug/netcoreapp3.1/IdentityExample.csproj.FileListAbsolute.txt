@@ -38,3 +38,11 @@ C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExampl
 C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
 C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
 C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.genruntimeconfig.cache
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmailVerification.cshtml.g.cs
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerifyEmail.cshtml.g.cs
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\tobi.adeogun\Documents\Visual Studio 2019\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
