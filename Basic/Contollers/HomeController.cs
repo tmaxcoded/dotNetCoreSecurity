@@ -16,10 +16,10 @@ namespace Basic.Contollers
             return View();
         }
 
-        [Authorize]
-        public IActionResult Secret()
+        [Authorize(Policy ="Claim.DoB")]
+        public IActionResult SecretPolicy()
         {
-            return View();
+            return View("Secret");
         }
 
         public IActionResult Authenticate()
@@ -28,6 +28,7 @@ namespace Basic.Contollers
             {
                 new Claim(ClaimTypes.Name, "Bob"),
                 new Claim(ClaimTypes.Email, "Bob@fmail.com"),
+                new Claim(ClaimTypes.DateOfBirth, "09/09/2021"),
                 new Claim("Grandma.Says", "Very nice boi.")
             };
 
